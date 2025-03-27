@@ -1,0 +1,7 @@
+{
+	"hostname":"{imap.dominio.es:puerto/imap/ssl}",
+	"username":"nombre@dominio.com",
+	"password":"Contraseña de la cuenta"
+}
+
+
